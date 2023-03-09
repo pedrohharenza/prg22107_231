@@ -2,7 +2,7 @@
 Análise e projeto do jogo da velha
 
 # CASO DE USO
-![Untitled Diagram](https://user-images.githubusercontent.com/92868328/224016346-b5748905-ed10-4599-af60-913c683aca75.jpg)
+![Untitled Diagram drawio (3)](https://user-images.githubusercontent.com/92868328/224019536-fb3b963f-29c6-4b88-bf51-b81c7f00e950.png)
 
 # DIAGRAMA DE CLASSE
 
